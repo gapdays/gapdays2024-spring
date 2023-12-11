@@ -3,13 +3,17 @@ This is the website for the [GAP days](https://www.gapdays.de/gapdays2024-spring
 It is based on [Jekyll](https://jekyllrb.com/), a static website generator,
 and the [hyde](https://github.com/poole/hyde/) template.
 
-If you want to test site on your own machine, first install Jekyll (as
-described on its website), then do this:
-```
-  git clone https://github.com/gapdays/gapdays2024-spring
-  cd gapdays2024-spring
-  jekyll serve -w
-```
+If you want to test site on your own machine, you need to have `ruby`
+and `bundler` installed. Afterwards, for the first time set up, do this:
+
+    git clone https://github.com/gapdays/gapdays2024-spring
+    cd gapdays2024-spring
+    bundle install
+
+Now whenever you want to work test the site locally, you can do this:
+
+    bundle exec jekyll serve -l
+
 Now open a browser on http://localhost:4000/ to see a live preview
 of the site.
 
