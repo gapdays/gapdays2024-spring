@@ -40,7 +40,7 @@ you do so, please also
   beneficial to the GAP system and community.
 
 Decisions on whether we can grant support and how much will be made
-on **January 15, 2024**. We may be able to support later applications
+on **15th&nbsp;January&nbsp;2024**. We may be able to support later applications
 depending on funds left.
 
 ### Questions?
