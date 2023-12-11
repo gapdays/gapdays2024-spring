@@ -34,12 +34,13 @@ We have some limited funding to support travel and accommodation costs
 (partially or fully) for participants in need of it. Please indicate in
 your registration email whether you wish to apply for this support. If
 you do so, please also
-- give a rough estimate of much support you expect to need, and
-- include a brief explanation what aims you hope to
-achieve during your visit and, if applicable, whether and
-how your visit would be of benefit the GAP system and community.
+- provide an estimate of much support you expect to need, and
+- include a brief explanation of the aims you hope to achieve during
+  your visit and, if applicable, whether and how your visit would be
+  beneficial to the GAP system and community.
 
-Decisions on whether to grant support and how much will be made speedily within a few days.
+Decisions on whether we can grant support and how much will be made on January 15, 2024.
+We may be able to support later applications depending on funds left.
 
 ### Questions?
 
