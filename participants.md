@@ -2,10 +2,7 @@
 layout: page
 title: Participants
 participants:
-  - name: Max Horn
-    affiliation: RPTU Kaiserslautern-Landau, Germany
-    links:
-      "GitHub: fingolfin": https://github.com/fingolfin
+  - {name: Max Horn, affiliation: University of Kaiserslautern-Landau, Germany}
 
 ---
 
