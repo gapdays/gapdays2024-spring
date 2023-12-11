@@ -39,8 +39,9 @@ you do so, please also
   your visit and, if applicable, whether and how your visit would be
   beneficial to the GAP system and community.
 
-Decisions on whether we can grant support and how much will be made on January 15, 2024.
-We may be able to support later applications depending on funds left.
+Decisions on whether we can grant support and how much will be made
+on **January 15, 2024**. We may be able to support later applications
+depending on funds left.
 
 ### Questions?
 
