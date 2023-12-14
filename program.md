@@ -5,7 +5,7 @@ title: Program
 
 
 * __Start:__ Monday 11<sup>th</sup> March 2024 <!-- , 9:00 UTC -->
-* __Finish:__ Friday 15<sup>th</sup> October 2024
+* __Finish:__ Friday 15<sup>th</sup> March 2024
 
 ## Detailed schedule
 
