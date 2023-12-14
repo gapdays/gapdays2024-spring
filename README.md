@@ -17,7 +17,7 @@ Now whenever you want to work test the site locally, you can do this:
 Now open a browser on http://localhost:4000/ to see a live preview
 of the site.
 
-== Steps for new GAP Days
+## Steps for new GAP Days
 
 To create a website for a new GAP Days event, follow roughly the following
 steps:
