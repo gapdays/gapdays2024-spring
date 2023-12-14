@@ -8,11 +8,11 @@ permalink:        pretty
 # Setup
 title:            'GAP Days Spring 2024'
 tagline:          'A workshop for GAP developers and users'
-description:      '11<sup>th</sup> to 15<sup>th</sup> Mach 2024'
+description:      '11<sup>th</sup> to 15<sup>th</sup> March 2024'
 location:         'University of Kaiserslautern-Landau'
 url:              https://www.gapdays.de
 baseurl:          /gapdays2024-spring
-email:            mhorn@rptu.de #gapdays2024-spring@gapdays.de
+email:            gapdays2024-spring@gapdays.de
 
 exclude: 
     - "LICENSE.hyde.md"
