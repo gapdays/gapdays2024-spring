@@ -59,3 +59,8 @@ This schedule is preliminary. Additional events will be added soon.
 ## Topics and projects
 
 TBA
+
+collecting some ideas
+- work on improving GitHub Actions which run package CI tests, e.g.
+   - get rid of the `cygwin-vs` branches as outlined [here](https://github.com/gap-actions/setup-gap/issues/18#issuecomment-1322385914)
+   - test against GAP releases instead of developer snapshots ([see here](https://github.com/gap-actions/setup-gap/issues/24)
