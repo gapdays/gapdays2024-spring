@@ -3,11 +3,9 @@ layout: page
 title: Participants
 participants:
   - {name: Max Horn, affiliation: University of Kaiserslautern-Landau, Germany}
-
-  - {name: Iryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine
-
-  - {name: Maryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine
-
+  - {name: Seyyed Ali Mohammadiyeh, affiliation: University of Kashan, Iran}
+  - {name: Iryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine}
+  - {name: Maryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
