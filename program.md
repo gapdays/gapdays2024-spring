@@ -4,8 +4,8 @@ title: Program
 ---
 
 
-* __Start:__ Monday 11<sup>th</sup> March 2024 <!-- , 9:00 UTC -->
-* __Finish:__ Friday 15<sup>th</sup> March 2024
+* __Start:__ Monday 11 March 2024 <!-- , 9:00 UTC -->
+* __Finish:__ Friday 15 March 2024
 
 ## Detailed schedule
 
@@ -59,3 +59,8 @@ This schedule is preliminary. Additional events will be added soon.
 ## Topics and projects
 
 TBA
+
+collecting some ideas
+- work on improving GitHub Actions which run package CI tests, e.g.
+   - get rid of the `cygwin-vs` branches as outlined [here](https://github.com/gap-actions/setup-gap/issues/18#issuecomment-1322385914)
+   - test against GAP releases instead of developer snapshots ([see here](https://github.com/gap-actions/setup-gap/issues/24)
