@@ -8,6 +8,8 @@ participants:
 
   - {name: Maryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine
 
+  - {name: Lukas Schnelle, affiliation: RWTH Aachen University, Germany}
+
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
