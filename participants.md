@@ -10,6 +10,10 @@ participants:
 
   - {name: Lukas Schnelle, affiliation: RWTH Aachen University, Germany}
 
+  - {name: Nusa Zidaric, affiliation: LIACS, Leiden University, Netherlands}
+
+  - {name: Meike Weiß, affiliation: RWTH Aachen University, Germany}
+
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
