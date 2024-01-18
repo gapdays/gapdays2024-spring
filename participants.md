@@ -14,6 +14,14 @@ participants:
 
   - {name: Meike Weiß, affiliation: RWTH Aachen University, Germany}
 
+  - {name: Mike Ogiugo, affiliation: Yaba College of Technology, University of Ibadan, Nigeria}
+
+  - {name: Vinay Vilas Wagh, affiliation: IIT Guwahati, India}
+
+  - {name: Claudio Alexandre Piedade , affiliation: Centro de Matemática da Universidade do Porto, Portugal}
+
+  - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
+
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
