@@ -24,6 +24,7 @@ participants:
 
   - {name: Seyyed Ali Mohammadiyeh, affiliation: University of Kashan, Iran}
 
+---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
 {% for p in participants %}
