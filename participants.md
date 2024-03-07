@@ -14,8 +14,6 @@ participants:
 
   - {name: Meike Weiß, affiliation: RWTH Aachen University, Germany}
 
-  - {name: Mike Ogiugo, affiliation: Yaba College of Technology, University of Ibadan, Nigeria}
-
   - {name: Vinay Vilas Wagh, affiliation: IIT Guwahati, India}
 
   - {name: Claudio Alexandre Piedade , affiliation: Centro de Matemática da Universidade do Porto, Portugal}
