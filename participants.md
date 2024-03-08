@@ -14,8 +14,6 @@ participants:
 
   - {name: Meike Weiß, affiliation: RWTH Aachen University, Germany}
 
-  - {name: Vinay Vilas Wagh, affiliation: IIT Guwahati, India}
-
   - {name: Claudio Alexandre Piedade , affiliation: Centro de Matemática da Universidade do Porto, Portugal}
 
   - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
