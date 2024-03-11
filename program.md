@@ -36,7 +36,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 12:00 *Lunch break*
   - 13:20 Group photo
   - 13:30 Talk: tbd, Stephen Linton
-  - 14:00 Work session: transition plan from old website
+  - 14:00 Work session: transition plan for package list from old website
   - 15:30 Plan for implementing results from today
   - 16:30 Stand-up Meeting: Results from work sessions
 
