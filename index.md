@@ -48,6 +48,7 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 {{site.title}} is organised by
 
 * [Max Horn](https://www.quendi.de/en/math)
+* Lukas Schnelle
 
 
 ## Registration
