@@ -22,7 +22,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 10:10 Introduction of everyone and final planning of schedule
   - 11:00 Setup session
   - 12:00 *Lunch break*
-  - 13:30 Talk: *"The GAPic package"*, Lukas Schnelle
+  - 13:30 Talk: *"The GAPic package"*, Lukas Schnelle ([link](https://github.com/GAP-ART-RWTH/GAPic))
   - 14:00 Work session: How to work with and contribute to GAP (also possible git crash course)
       - Maybe already working on some good first issues
   - 15:30 Plan for starting with new package list, especially setting of goals
@@ -34,8 +34,8 @@ This schedule is the first draft. Additional information will be added soon.
   - 9:30 Work session: new package list (e.g. mockups, precise planning of functions)
   - 11:00 Talk: *"How to set up a package website using GitHub and Jekyll"* (Max Horn)
   - 12:00 *Lunch break*
-  - 13:20 Group photo
-  - 13:30 Talk: tbd, Stephen Linton
+  - 13:30 Talk: *"The vector enumerator"*, Florian Heine & Nicolaus Jacobsen
+  - 13:50 Talk: *"Richard Parker, the Meataxe and the algorithm that was one optimisatipon too far."*, Stephen Linton ([abstract]({{ site.baseurl }}/abstracts/linton))
   - 14:00 Work session: transition plan for package list from old website
   - 15:30 Plan for implementing results from today
   - 16:30 Stand-up Meeting: Results from work sessions
@@ -44,7 +44,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 9:00 Stand-up Meeting: Distribution of tasks for MVP and implementation
   - Work session: MVP for package list
   - 12:00 *Lunch break*
-  - 13:30 Talk: *"CoreFreeSub - a package to compute faithful transitive permutation representations of groups"*, Claudio Piedade
+  - 13:30 Talk: *"CoreFreeSub - a package to compute faithful transitive permutation representations of groups"*, Claudio Piedade ([link](https://github.com/CAPiedade/corefreesub))
   - 14:00 Work session: turning the MVP into a sustainable system
   - 16:30 Stand-up Meeting: Results from new package list
   - 19:00 (Conference dinner)
@@ -54,7 +54,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 9:30 Stand-up Meeting: Distribution of tasks for permutation actions
   - 10:00 Work session: cleaning up permutation actions
   - 12:00 *Lunch break*
-  - 13:30 Talk: *"The LocalNR package"*, Iryna Raievska and Maryna Raievska
+  - 13:30 Talk: *"The LocalNR package"*, Iryna Raievska and Maryna Raievska ([link](https://github.com/gap-packages/LocalNR))
   - 14:00 Work session (continued): cleaning up permutation actions
   - 16:30 Stand-up Meeting: Results from cleaning up permutation actions
 
