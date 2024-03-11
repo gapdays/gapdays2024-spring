@@ -18,7 +18,9 @@ Germany</a>
 The meeting takes place in building 48 in floor 4 (which is the second above ground...)
 - room 436: main room
 - room 419: secondary room
-- room 430: office of Max Horn,
+- room 430: office of Max Horn
+
+[Map of the campus.](https://rptu.de/fileadmin/prum/02_Downloads/Lageplan/RPTU_Lageplan_KL__August_2023.pdf)
 
 <!-- 
 
