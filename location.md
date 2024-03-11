@@ -15,7 +15,10 @@ Germany</a>
 
 [University website with travel suggestions.](https://rptu.de/en/routes-and-means-of-transport).
 
-More details (e.g. which rooms we will be using exactly) will follow soon.
+The meeting takes place in building 48 in floor 4 (which is the second above ground...)
+- room 436: main room
+- room 419: secondary room
+- room 430: office of Max Horn,
 
 <!-- 
 
