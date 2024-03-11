@@ -54,7 +54,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 9:30 Stand-up Meeting: Distribution of tasks for permutation actions
   - 10:00 Work session: cleaning up permutation actions
   - 12:00 *Lunch break*
-  - 13:30 Talk: *"The LocalNR package"*, Iryna Raievska and Maryna Raievska ([link](https://github.com/gap-packages/LocalNR))
+  - 13:30 Talk: *"LocalNR package and its applications"*, Iryna Raievska and Maryna Raievska ([link](https://github.com/gap-packages/LocalNR)) ([abstract]({{ site.baseurl }}/abstracts/raievska))
   - 14:00 Work session (continued): cleaning up permutation actions
   - 16:30 Stand-up Meeting: Results from cleaning up permutation actions
 
