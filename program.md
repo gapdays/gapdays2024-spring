@@ -68,8 +68,7 @@ This schedule is the first draft. Additional information will be added soon.
 
 ## Digital participation
 
-For digital participants we created a Gather link, which you can find here:
-https://app.gather.town/app/8v9jQV7Yeftv5bz1/GAPDays
+For digital participants we created a [Gather.town meeting room, click here](https://app.gather.town/app/8v9jQV7Yeftv5bz1/GAPDays).
 
 ## Topics and projects
 
