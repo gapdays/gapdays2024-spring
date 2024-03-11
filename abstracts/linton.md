@@ -5,7 +5,7 @@ permalink: /abstracts/linton
 
 ## Stephen Linton
 
-### Richard Parker, the Meataxe and the algorithm that was one optimisatipon too far
+### Richard Parker, the Meataxe and the algorithm that was one optimisation too far
 
 I will talk about some of the many contributions of the late
 Richard Parker to Computational Algebra and Representation Theory,
