@@ -19,6 +19,7 @@ The meeting takes place in building 48 in floor 4 (which is the second above gro
 - room 436: main room
 - room 419: secondary room
 - room 430: office of Max Horn
+- online / hybrid: [Gather.town meeting room](https://app.gather.town/app/8v9jQV7Yeftv5bz1/GAPDays)
 
 [Map of the campus.](https://rptu.de/fileadmin/prum/02_Downloads/Lageplan/RPTU_Lageplan_KL__August_2023.pdf)
 

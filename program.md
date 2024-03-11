@@ -75,6 +75,4 @@ For digital participants we created a [Gather.town meeting room, click here](htt
 TBA
 
 collecting some ideas
-- work on improving GitHub Actions which run package CI tests, e.g.
-   - get rid of the `cygwin-vs` branches as outlined [here](https://github.com/gap-actions/setup-gap/issues/18#issuecomment-1322385914)
-   - test against GAP releases instead of developer snapshots ([see here](https://github.com/gap-actions/setup-gap/issues/24)
+- see this [HackMD](https://hackmd.io/e8lkzGISSRqoDscXa92uyw)
