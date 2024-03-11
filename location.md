@@ -22,6 +22,9 @@ The meeting takes place in building 48 in floor 4 (which is the second above gro
 
 [Map of the campus.](https://rptu.de/fileadmin/prum/02_Downloads/Lageplan/RPTU_Lageplan_KL__August_2023.pdf)
 
+If you come by bus, exit at "Uni Zentral" and walk down the stairs.
+<img src="public/campus_rptu.jpg" />
+
 <!-- 
 
 ## Accommodation
