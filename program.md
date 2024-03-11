@@ -35,7 +35,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 11:00 Talk: *"How to set up a package website using GitHub and Jekyll"* (Max Horn)
   - 12:00 *Lunch break*
   - 13:30 Talk: *"The vector enumerator"*, Florian Heine & Nicolaus Jacobsen
-  - 13:50 Talk: *"Richard Parker, the Meataxe and the algorithm that was one optimisatipon too far."*, Stephen Linton ([abstract]({{ site.baseurl }}/abstracts/linton))
+  - 13:50 Talk: *"Richard Parker, the Meataxe and the algorithm that was one optimisation too far."*, Stephen Linton ([abstract]({{ site.baseurl }}/abstracts/linton))
   - 14:00 Work session: transition plan for package list from old website
   - 15:30 Plan for implementing results from today
   - 16:30 Stand-up Meeting: Results from work sessions
