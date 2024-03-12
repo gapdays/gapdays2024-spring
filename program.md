@@ -47,7 +47,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 13:30 Talk: *"CoreFreeSub - a package to compute faithful transitive permutation representations of groups"*, Claudio Piedade ([link](https://github.com/CAPiedade/corefreesub))
   - 14:00 Work session: turning the MVP into a sustainable system
   - 16:30 Stand-up Meeting: Results from new package list
-  - 19:00 (Conference dinner)
+  - 19:00 Conference dinner ([Restaurant Spinnrädel](https://spinnraedl.de))
 
 - **Thursday**
   - 9:00 Talk: "*Introduction to group actions in GAP*" (TBD)
