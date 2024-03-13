@@ -44,7 +44,7 @@ This schedule is the first draft. Additional information will be added soon.
   - 9:00 Stand-up Meeting: Distribution of tasks for MVP and implementation
   - Work session: MVP for package list
   - 12:00 *Lunch break*
-  - 13:30 Talk: *"CoreFreeSub - a package to compute faithful transitive permutation representations of groups"*, Claudio Piedade ([link](https://github.com/CAPiedade/corefreesub))
+  - 13:30 Talk: *"CoreFreeSub - a package to compute faithful transitive permutation representations of groups"*, Claudio Piedade ([link](https://github.com/CAPiedade/corefreesub)) ([abstract]({{ site.baseurl }}/abstracts/piedade))
   - 14:00 Work session: turning the MVP into a sustainable system
   - 16:30 Stand-up Meeting: Results from new package list
   - 19:00 (Conference dinner)
