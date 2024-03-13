@@ -55,7 +55,8 @@ This schedule is the first draft. Additional information will be added soon.
   - 10:00 Work session: cleaning up permutation actions
   - 12:00 *Lunch break*
   - 13:30 Talk: *"LocalNR package and its applications"*, Iryna Raievska and Maryna Raievska ([link](https://github.com/gap-packages/LocalNR)) ([abstract]({{ site.baseurl }}/abstracts/raievska))
-  - 14:00 Work session (continued): cleaning up permutation actions
+  - 14:00 *"Kres -- mathematical synthesis for secure microchips”*, Nusa Zidaric ([link](https://github.com/nzidaric))
+  - 14:30 Work session (continued): cleaning up permutation actions
   - 16:30 Stand-up Meeting: Results from cleaning up permutation actions
 
 - **Friday**
