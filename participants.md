@@ -52,3 +52,6 @@ participants:
 </ul>
 
 {% endif %}
+
+## Conference photo
+<img src="{{ site.baseurl }}/public/conference-photo.jpg" />
