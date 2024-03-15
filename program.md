@@ -30,7 +30,7 @@ This schedule is the first draft. Additional information will be added soon.
 <!--   - 20:00: Get-together at TODO -->
 
 - **Tuesday**
-  - 9:00 Stand-up Meeting: Distributon of tasks for new package list
+  - 9:00 Stand-up Meeting: Plans for the day
   - 9:30 Work session: new package list (e.g. mockups, precise planning of functions)
   - 11:00 Talk: *"How to set up a package website using GitHub and Jekyll"* (Max Horn)
   - 12:00 *Lunch break*
@@ -41,27 +41,26 @@ This schedule is the first draft. Additional information will be added soon.
   - 16:30 Stand-up Meeting: Results from work sessions
 
 - **Wednesday**
-  - 9:00 Stand-up Meeting: Distribution of tasks for MVP and implementation
-  - Work session: MVP for package list
+  - 9:00 Stand-up Meeting: Plans for the day
+  - Work session
   - 12:00 *Lunch break*
   - 13:30 Talk: *"CoreFreeSub - a package to compute faithful transitive permutation representations of groups"*, Claudio Piedade ([link](https://github.com/CAPiedade/corefreesub)) ([abstract]({{ site.baseurl }}/abstracts/piedade))
-  - 14:00 Work session: turning the MVP into a sustainable system
+  - Work session
   - 16:30 Stand-up Meeting: Results from new package list
   - 19:00 Conference dinner ([Restaurant Spinnrädel](https://spinnraedl.de))
 
 - **Thursday**
-  - 9:00 Talk: "*Introduction to group actions in GAP*" (TBD)
-  - 9:30 Stand-up Meeting: Distribution of tasks for permutation actions
-  - 10:00 Work session: cleaning up permutation actions
+  - 9:00 Stand-up Meeting: Plans for the day
+  - Work session
   - 12:00 *Lunch break*
   - 13:30 Talk: *"LocalNR package and its applications"*, Iryna Raievska and Maryna Raievska ([link](https://github.com/gap-packages/LocalNR)) ([abstract]({{ site.baseurl }}/abstracts/raievska))
   - 14:00 *"Kres -- mathematical synthesis for secure microchips”*, Nusa Zidaric ([link](https://github.com/nzidaric))
-  - 14:30 Work session (continued): cleaning up permutation actions
+  - Work session
   - 16:30 Stand-up Meeting: Results from cleaning up permutation actions
 
 - **Friday**
   - 9:00 Stand-up meeting: Remaing tasks to clean finishing of GAPDays
-  - 9:30 Work session: clean finish of GAPDays
+  - 9:30 Work session: wrap up projects
   - 12:00 *Lunch break*
   - 13:30 Work session: Future GAPDays and feedback
   - 15:00 **Closing of GAPDays**
@@ -73,7 +72,4 @@ For digital participants we created a [Gather.town meeting room, click here](htt
 
 ## Topics and projects
 
-TBA
-
-collecting some ideas
-- see this [HackMD](https://hackmd.io/e8lkzGISSRqoDscXa92uyw)
+See this [HackMD](https://hackmd.io/e8lkzGISSRqoDscXa92uyw)
