@@ -52,4 +52,4 @@ participants:
 {% endif %}
 
 ## Conference photo
-<img src="{{ site.baseurl }}/public/conference-photo.jpg" />
+[<img src="{{ site.baseurl }}/public/conference-photo.jpg" />]({{ site.baseurl }}/public/conference-photo.jpg)
