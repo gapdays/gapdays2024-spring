@@ -14,9 +14,6 @@ and follow a pattern of "Standups" each day at around 9:00 and 16:30, to
 communicate what we plan to work on, and what we have worked on, respectively.
 We will close the meeting at around 15:00 on Friday.
 
-This schedule is the first draft. Additional information will be added soon.
-
-
 - **Monday**
   - 10:00 Opening of GAPDays 
   - 10:10 Introduction of everyone and final planning of schedule
